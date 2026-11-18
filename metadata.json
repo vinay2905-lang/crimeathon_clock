@@ -1,0 +1,6 @@
+{
+  "name": "Crimeathon — 24-Hour Event Timer",
+  "description": "Official 24-hour event countdown and operational schedule portal for Crimeathon by Sentrix Cyber Club at SIMATS Engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
